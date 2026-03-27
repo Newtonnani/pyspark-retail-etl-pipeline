@@ -1,0 +1,16 @@
+Raw CSV Files
+    ↓
+Bronze Layer
+    - Ingest raw data
+    - Preserve source records
+    - Standardize schemas
+    ↓
+Silver Layer
+    - Join transactional and master data
+    - Apply business logic
+    - Calculate revenue
+    ↓
+Gold Layer
+    - Product sales summary
+    - Customer revenue summary
+    - State-wise revenue summary

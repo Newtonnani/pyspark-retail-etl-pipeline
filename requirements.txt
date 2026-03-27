@@ -1,0 +1,5 @@
+pyspark
+pandas
+pyarrow
+jupyter
+notebook
